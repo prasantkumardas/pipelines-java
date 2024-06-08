@@ -18,7 +18,7 @@ dependencies {
     testImplementation(libs.junit.junit)
 }
 
-group = "helloworld"
+group = "Helloworld Project"
 version = "1.0-SNAPSHOT"
 description = "Hello world sample web app"
 java.sourceCompatibility = JavaVersion.VERSION_1_8
